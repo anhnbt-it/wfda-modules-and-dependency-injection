@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "modules-and-dependency-injection"
+  "defaultProject": "modules-and-dependency-injection",
+  "cli": {
+    "analytics": "caa91dfd-764c-49af-935c-df47e5c2bf89"
+  }
 }
