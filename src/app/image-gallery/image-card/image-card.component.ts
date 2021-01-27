@@ -5,8 +5,9 @@ import { Component, Input, OnInit } from '@angular/core';
   templateUrl: './image-card.component.html',
   styleUrls: ['./image-card.component.css']
 })
-export class ImageCardComponent implements OnInit {
 
+export class ImageCardComponent implements OnInit {
+  
   @Input() src = '';
 
   constructor() { }
